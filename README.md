@@ -17,6 +17,21 @@ If cashier enters items multiple times, system will add items quantity and apply
 System will display Final Shooping Cart items with Quantity ,Discount details,Total cost.
 
 
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
+
+### Prerequisites
+
+Visual Studio 2017
+
+
+### Installing
+
+A step by step series of examples that tell you how to get a development env running
+Run this application as a console application
+
+
 ## Contributing
 
 Please read [CONTRIBUTING.md] for details on our code of conduct, and the process for submitting pull requests to us.
@@ -27,7 +42,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Surendar Veerapalli** - *Initial work* - [Surendra veerapalli](https://github.com/)
+* **Surendar Veerepalli** - *Initial work* - [Surendra veerepalli](https://github.com/)
 
 
 
